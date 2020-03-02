@@ -12,11 +12,13 @@
 
 <h2 >Aplicação em construção</h2>
 
-<img src="https://ajuda.alterdata.com.br/aec/files/32606088/32606496/1/1521643238907/em-construc%CC%A7a%CC%83o.png" style="zoom:25%; border-radius:5%" />
+<img src="https://ajuda.alterdata.com.br/aec/files/32606088/32606496/1/1521643238907/em-construc%CC%A7a%CC%83o.png" style="zoom:10%;border-radius:5%" />
 
 Esse código representa a minha solução com base nas aulas do BootCamp GoStack 9.0.
 
-​												[Tecnologias](#Tecnologias)						[Como instalar e usar a aplicação](#Como usar ?)	
+[Tecnologias](#Tecnologias)						
+
+[Como instalar e usar a aplicação](#Como usar ?)	
 
 
 
@@ -51,7 +53,7 @@ Tecnologias utilizadas até o momento:
 
    3.  Para instalar as dependências, rode yarn:
 
-      ```shell
+      ```
       yarn install
       ```
 
@@ -86,3 +88,5 @@ Tecnologias utilizadas até o momento:
       
 
    
+
+> Readme.md escrito usando [Typora](https://typora.io/)
