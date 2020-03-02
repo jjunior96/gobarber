@@ -1,24 +1,19 @@
 
-
-
-
 <img src="https://camo.githubusercontent.com/712ef434c5d04bbcf01454b418995435957670db/68747470733a2f2f73332e75732d656173742d322e616d617a6f6e6177732e636f6d2f676f6261726265722d696d672f6c6f676f2e737667" alt="capa" style="zoom:500%;" />
 
-<h1>GoBarber</h1><p>Aplicativo de agendamento em salão de beleza. Proposto pela RocketSeat para o curso GoStack. Curso focado em oferecer ao aulo conhecer todo o ecossistema das tecnologias NodeJS, ReactJS e React Native. </p>
+<h1>GoBarber</h1><p>Aplicativo de agendamento em salão de beleza. Proposto pela RocketSeat para o curso GoStack. Curso focado em oferecer ao aulno conhecer todo o ecossistema das tecnologias NodeJS, ReactJS e React Native. </p>
 
 
 
-<div style="text-align:right;color:#666;"><i>"Não tente. Faça ou não faça. Não existe tentativa."</i><small>, Me. Yoda</small></div>
+<div style="text-align:right;color:#666;widht:100%;border:1px solid red;"><i style="text-align:right;">"Não tente. Faça ou não faça. Não existe tentativa."</i><small>, Me. Yoda</small></div>
 
 <h2 >Aplicação em construção</h2>
-
-<img src="https://ajuda.alterdata.com.br/aec/files/32606088/32606496/1/1521643238907/em-construc%CC%A7a%CC%83o.png" style="zoom:10%;border-radius:5%" />
 
 Esse código representa a minha solução com base nas aulas do BootCamp GoStack 9.0.
 
 [Tecnologias](#Tecnologias)						
 
-[Como instalar e usar a aplicação](#Como usar ?)	
+[Como instalar e usar a aplicação](#Comousa?)	
 
 
 
