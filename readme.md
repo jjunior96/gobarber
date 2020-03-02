@@ -13,7 +13,7 @@ Esse código representa a minha solução com base nas aulas do BootCamp GoStack
 
 [Tecnologias](#Tecnologias)						
 
-[Como instalar e usar a aplicação](#Comousa?)	
+[Como instalar e usar a aplicação](#como-usar-)	
 
 
 
